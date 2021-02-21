@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    margin: 40px 0px;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+video, img {
+    display: block;
+    margin: 20px auto 20px auto;
+}
+#copy {
+    text-align: right;
+}
